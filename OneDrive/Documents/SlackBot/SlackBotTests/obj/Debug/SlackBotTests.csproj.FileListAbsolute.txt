@@ -1,0 +1,14 @@
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\YodaSlackBotTests.dll
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\YodaSlackBotTests.pdb
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\obj\Debug\SlackBotTests.csprojAssemblyReference.cache
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\obj\Debug\SlackBotTests.csproj.CoreCompileInputs.cache
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\obj\Debug\SlackBotTests.csproj.CopyComplete
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\obj\Debug\YodaSlackBotTests.dll
+C:\Users\orsha\Downloads\YodaSlackBot-master\YodaSlackBot-master\YodaSlackBot\SlackBotTests\obj\Debug\YodaSlackBotTests.pdb
